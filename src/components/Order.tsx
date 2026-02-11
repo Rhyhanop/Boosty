@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export const Order = () => {
     const [paymentMethod, setPaymentMethod] = useState('UPI');

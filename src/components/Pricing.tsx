@@ -1,4 +1,3 @@
-import React from 'react';
 import { pricing } from '../data/mockData';
 
 export const Pricing = () => (
