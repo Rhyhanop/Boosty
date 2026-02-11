@@ -2,6 +2,7 @@
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { Services } from './components/Services';
+import { Coaching } from './components/Coaching';
 import { Pricing } from './components/Pricing';
 import { Order } from './components/Order';
 import { Reviews } from './components/Reviews';
@@ -18,6 +19,7 @@ function App() {
       <main>
         <Hero />
         <Services />
+        <Coaching />
         <Pricing />
         <Order />
         <Reviews />
